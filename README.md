@@ -11,7 +11,7 @@ This project demonstrates **MapReduce-based data processing** on **NYC Taxi Trip
 
 ## 🛠️ Technologies & Tools  
 - **Big Data Framework:** Hadoop, MapReduce  
-- **Programming:** Python, Java  
+- **Programming:** Python
 - **Storage:** HDFS (Hadoop Distributed File System)  
 - **Data Querying:** SQL  
 
