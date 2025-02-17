@@ -34,12 +34,12 @@ This project demonstrates **MapReduce-based data processing** on **NYC Taxi Trip
 
 ## 🚀 How to Run the Project  
 - The dataset for the projects can be downloaded form the following liks:
- https://nyc-tlc-upgrad.s3.amazonaws.com/yellow_tripdata_2017-01.csv
- https://nyc-tlc-upgrad.s3.amazonaws.com/yellow_tripdata_2017-02.csv
- https://nyc-tlc-upgrad.s3.amazonaws.com/yellow_tripdata_2017-03.csv
- https://nyc-tlc-upgrad.s3.amazonaws.com/yellow_tripdata_2017-04.csv
- https://nyc-tlc-upgrad.s3.amazonaws.com/yellow_tripdata_2017-05.csv
- https://nyc-tlc-upgrad.s3.amazonaws.com/yellow_tripdata_2017-06.csv
+<br> https://nyc-tlc-upgrad.s3.amazonaws.com/yellow_tripdata_2017-01.csv
+ <br> https://nyc-tlc-upgrad.s3.amazonaws.com/yellow_tripdata_2017-02.csv
+ <br> https://nyc-tlc-upgrad.s3.amazonaws.com/yellow_tripdata_2017-03.csv
+ <br> https://nyc-tlc-upgrad.s3.amazonaws.com/yellow_tripdata_2017-04.csv
+ <br> https://nyc-tlc-upgrad.s3.amazonaws.com/yellow_tripdata_2017-05.csv
+ <br> https://nyc-tlc-upgrad.s3.amazonaws.com/yellow_tripdata_2017-06.csv
 - RDS.pdf file explains how to RDS instance and upload the data
 - Injectiontask.pdf file contains the code to create the HBase table. The file also includes the Sqoop command to ingest data from RDS into the HBase table.
 - The Python code (batch_ingest.py) used to ingest the batch data to the HBase table.
